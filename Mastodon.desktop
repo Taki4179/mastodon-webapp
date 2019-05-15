@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/martina/Electron/Mastodon-linux-x64/Mastodon
+Name=Mastodon
+Comment=Mastodon electron desktop application
+Icon=/home/martina/Electron/Mastodon-linux-x64/Mastodon.png
