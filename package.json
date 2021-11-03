@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron .",
     "package": "electron-packager ./ Mastodon --platform=linux --out ./dist --overwrite",
-    "package-win": "electron-packager ./ Mastodon --platform=windows --out ./dist --overwrite --icon=..."
+    "package-win": "electron-packager ./ Mastodon --platform=win32 --out ./dist --overwrite --icon=Mastodon.ico"
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
