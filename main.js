@@ -22,7 +22,7 @@ function createWindow () {
   // and load the index.html of the app.
   //mainWindow.loadFile('index.html')
   mainWindow.loadURL(url.format({
-    pathname: path.join('mstdn.hogwarts.college'),
+    pathname: path.join('mstdn.cloud.themaymeow.com'),
     protocol: 'https',
     slashes: true
   }))
